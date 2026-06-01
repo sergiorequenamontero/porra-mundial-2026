@@ -1,0 +1,1241 @@
+{
+  "locked": false,
+  "participants": [
+    "Participante 1",
+    "Participante 2",
+    "Participante 3",
+    "Participante 4",
+    "Participante 5",
+    "Participante 6",
+    "Participante 7",
+    "Participante 8",
+    "Participante 9",
+    "Participante 10"
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "name": "México vs Sudáfrica",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 2,
+      "name": "Rep. de Corea vs República Checa",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 3,
+      "name": "Canadá vs Bosnia y Herzegovina",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 4,
+      "name": "Estados Unidos vs Paraguay",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 5,
+      "name": "Catar vs Suiza",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 6,
+      "name": "Brasil vs Marruecos",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 7,
+      "name": "Haití vs Escocia",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 8,
+      "name": "Australia vs Turquía",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 9,
+      "name": "Alemania vs Curazao",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 10,
+      "name": "Países Bajos vs Japón",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 11,
+      "name": "Costa de Marfil vs Ecuador",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 12,
+      "name": "Suecia vs Túnez",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 13,
+      "name": "España vs Cabo Verde",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 14,
+      "name": "Bélgica vs Egipto",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 15,
+      "name": "Arabia Saudí vs Uruguay",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 16,
+      "name": "Irán vs Nueva Zelanda",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 17,
+      "name": "Francia vs Senegal",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 18,
+      "name": "Irak vs Noruega",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 19,
+      "name": "Argentina vs Argelia",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 20,
+      "name": "Austria vs Jordania",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 21,
+      "name": "Portugal vs RD Congo",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 22,
+      "name": "Inglaterra vs Croacia",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 23,
+      "name": "Ghana vs Panamá",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 24,
+      "name": "Uzbekistán vs Colombia",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 25,
+      "name": "República Checa vs Sudáfrica",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 26,
+      "name": "Suiza vs Bosnia y Herzegovina",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 27,
+      "name": "Canadá vs Catar",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 28,
+      "name": "México vs República de Corea",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 29,
+      "name": "Estados Unidos vs Australia",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 30,
+      "name": "Escocia vs Marruecos",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 31,
+      "name": "Brasil vs Haití",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 32,
+      "name": "Turquía vs Paraguay",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 33,
+      "name": "Países Bajos vs Suecia",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 34,
+      "name": "Alemania vs Costa de Marfil",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 35,
+      "name": "Ecuador vs Curazao",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 36,
+      "name": "Túnez vs Japón",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 37,
+      "name": "España vs Arabia Saudí",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 38,
+      "name": "Bélgica vs Irán",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 39,
+      "name": "Uruguay vs Cabo Verde",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 40,
+      "name": "Nueva Zelanda vs Egipto",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 41,
+      "name": "Argentina vs Austria",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 42,
+      "name": "Francia vs Senegal",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 43,
+      "name": "Irak vs Noruega",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 44,
+      "name": "Jordania vs Argelia",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 45,
+      "name": "Portugal vs Uzbekistán",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 46,
+      "name": "Inglaterra vs Ghana",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 47,
+      "name": "Panamá vs Croacia",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 48,
+      "name": "Colombia vs RD Congo",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 49,
+      "name": "Suiza vs Canadá",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 50,
+      "name": "Bosnia y Herzegovina vs Catar",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 51,
+      "name": "Escocia vs Brasil",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 52,
+      "name": "Marruecos vs Haití",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 53,
+      "name": "República Checa vs México",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 54,
+      "name": "Sudáfrica vs República de Corea",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 55,
+      "name": "Curazao vs Costa de Marfil",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 56,
+      "name": "Ecuador vs Alemania",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 57,
+      "name": "Japón vs Suecia",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 58,
+      "name": "Túnez vs Países Bajos",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 59,
+      "name": "Turquía vs Estados Unidos",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 60,
+      "name": "Paraguay vs Australia",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 61,
+      "name": "Noruega vs Francia",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 62,
+      "name": "Senegal vs Irak",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 63,
+      "name": "Cabo Verde vs Arabia Saudí",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 64,
+      "name": "Uruguay vs España",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 65,
+      "name": "Egipto vs Irán",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 66,
+      "name": "Nueva Zelanda vs Bélgica",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 67,
+      "name": "Panamá vs Inglaterra",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 68,
+      "name": "Croacia vs Ghana",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 69,
+      "name": "Colombia vs Portugal",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 70,
+      "name": "RD Congo vs Uzbekistán",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 71,
+      "name": "Argelia vs Austria",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    },
+    {
+      "id": 72,
+      "name": "Jordania vs Argentina",
+      "result": "",
+      "predictions": {
+        "Participante 1": "",
+        "Participante 2": "",
+        "Participante 3": "",
+        "Participante 4": "",
+        "Participante 5": "",
+        "Participante 6": "",
+        "Participante 7": "",
+        "Participante 8": "",
+        "Participante 9": "",
+        "Participante 10": ""
+      }
+    }
+  ]
+}
