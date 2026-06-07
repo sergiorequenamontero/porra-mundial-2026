@@ -1,0 +1,437 @@
+{
+  "participants": [],
+  "matches": [
+    {
+      "id": 1,
+      "name": "México vs Sudáfrica",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 2,
+      "name": "Rep. de Corea vs República Checa",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 3,
+      "name": "Canadá vs Bosnia y Herzegovina",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 4,
+      "name": "Estados Unidos vs Paraguay",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 5,
+      "name": "Catar vs Suiza",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 6,
+      "name": "Brasil vs Marruecos",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 7,
+      "name": "Haití vs Escocia",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 8,
+      "name": "Australia vs Turquía",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 9,
+      "name": "Alemania vs Curazao",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 10,
+      "name": "Países Bajos vs Japón",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 11,
+      "name": "Costa de Marfil vs Ecuador",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 12,
+      "name": "Suecia vs Túnez",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 13,
+      "name": "España vs Cabo Verde",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 14,
+      "name": "Bélgica vs Egipto",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 15,
+      "name": "Arabia Saudí vs Uruguay",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 16,
+      "name": "Irán vs Nueva Zelanda",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 17,
+      "name": "Francia vs Senegal",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 18,
+      "name": "Irak vs Noruega",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 19,
+      "name": "Argentina vs Argelia",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 20,
+      "name": "Austria vs Jordania",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 21,
+      "name": "Portugal vs RD Congo",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 22,
+      "name": "Inglaterra vs Croacia",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 23,
+      "name": "Ghana vs Panamá",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 24,
+      "name": "Uzbekistán vs Colombia",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 25,
+      "name": "República Checa vs Sudáfrica",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 26,
+      "name": "Suiza vs Bosnia y Herzegovina",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 27,
+      "name": "Canadá vs Catar",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 28,
+      "name": "México vs República de Corea",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 29,
+      "name": "Estados Unidos vs Australia",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 30,
+      "name": "Escocia vs Marruecos",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 31,
+      "name": "Brasil vs Haití",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 32,
+      "name": "Turquía vs Paraguay",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 33,
+      "name": "Países Bajos vs Suecia",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 34,
+      "name": "Alemania vs Costa de Marfil",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 35,
+      "name": "Ecuador vs Curazao",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 36,
+      "name": "Túnez vs Japón",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 37,
+      "name": "España vs Arabia Saudí",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 38,
+      "name": "Bélgica vs Irán",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 39,
+      "name": "Uruguay vs Cabo Verde",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 40,
+      "name": "Nueva Zelanda vs Egipto",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 41,
+      "name": "Argentina vs Austria",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 42,
+      "name": "Francia vs Senegal",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 43,
+      "name": "Irak vs Noruega",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 44,
+      "name": "Jordania vs Argelia",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 45,
+      "name": "Portugal vs Uzbekistán",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 46,
+      "name": "Inglaterra vs Ghana",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 47,
+      "name": "Panamá vs Croacia",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 48,
+      "name": "Colombia vs RD Congo",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 49,
+      "name": "Suiza vs Canadá",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 50,
+      "name": "Bosnia y Herzegovina vs Catar",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 51,
+      "name": "Escocia vs Brasil",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 52,
+      "name": "Marruecos vs Haití",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 53,
+      "name": "República Checa vs México",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 54,
+      "name": "Sudáfrica vs República de Corea",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 55,
+      "name": "Curazao vs Costa de Marfil",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 56,
+      "name": "Ecuador vs Alemania",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 57,
+      "name": "Japón vs Suecia",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 58,
+      "name": "Túnez vs Países Bajos",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 59,
+      "name": "Turquía vs Estados Unidos",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 60,
+      "name": "Paraguay vs Australia",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 61,
+      "name": "Noruega vs Francia",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 62,
+      "name": "Senegal vs Irak",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 63,
+      "name": "Cabo Verde vs Arabia Saudí",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 64,
+      "name": "Uruguay vs España",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 65,
+      "name": "Egipto vs Irán",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 66,
+      "name": "Nueva Zelanda vs Bélgica",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 67,
+      "name": "Panamá vs Inglaterra",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 68,
+      "name": "Croacia vs Ghana",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 69,
+      "name": "Colombia vs Portugal",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 70,
+      "name": "RD Congo vs Uzbekistán",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 71,
+      "name": "Argelia vs Austria",
+      "result": "",
+      "predictions": {}
+    },
+    {
+      "id": 72,
+      "name": "Jordania vs Argentina",
+      "result": "",
+      "predictions": {}
+    }
+  ]
+}
