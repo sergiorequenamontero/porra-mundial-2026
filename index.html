@@ -1,1 +1,144 @@
-<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>PORRA MUNDIAL 2026</title><link rel="stylesheet" href="./style.css"></head><body><header class="topbar"><div><div class="kicker">Porra privada</div><h1>PORRA MUNDIAL 2026</h1><p>Fase de grupos · Pronósticos 1X2 · Clasificación automática</p></div><button id="adminOpen" class="admin-open">Admin</button></header><main><nav class="bottom-nav"><button data-view="home" class="active">Inicio</button><button data-view="search">Buscar</button><button data-view="compare">Comparar</button><button data-view="tableView">Tabla</button></nav><section id="adminPanel" class="panel admin-panel hidden"><h2>Panel admin</h2><div id="loginBox" class="line"><input id="adminPassword" type="password" placeholder="Contraseña"><button id="adminLogin">Entrar</button></div><div id="adminTools" class="hidden"><div class="line"><button id="adminLogout">Salir de admin</button><button id="seedDatabase">Cargar partidos iniciales</button></div><p class="small">Usa “Cargar partidos iniciales” solo una vez, si la base de datos está vacía.</p><h3>Añadir participante</h3><div class="line"><input id="newParticipantName" placeholder="Nombre del participante"><button id="createParticipant">Crear participante con 72 pronósticos</button></div><h3>Editar participante existente</h3><div class="line"><select id="adminParticipantSelect"></select><button id="loadParticipantPredictions">Cargar pronósticos</button><button id="deleteParticipant" class="danger">Eliminar participante</button></div><div id="predictionEditor" class="hidden"><h3 id="predictionEditorTitle"></h3><div id="predictionList"></div><button id="savePredictions" class="primary">Guardar pronósticos</button></div><h3>Renombrar participantes</h3><div id="participantRenameList"></div><h3>Editar partidos y orden</h3><p class="small">Edita el nombre del partido o cambia su posición. Si mueves uno a otra posición, los demás se desplazan y no se pierde ningún pronóstico.</p><div id="matchEditorList"></div></div></section><section id="home" class="view active"><section class="grid-main"><article class="panel ranking-panel"><div class="section-head"><h2>Clasificación</h2><span id="playedCounter" class="chip">0/72</span></div><div id="rankingTop"></div><button class="link-button" data-view="tableView">Ver tabla completa</button></article><article class="panel"><h2>Últimos 3 resultados</h2><div id="lastResults"></div></article><article class="panel"><h2>Próximos 3 partidos</h2><div id="nextMatches"></div></article></section><section class="panel"><h2>Destacados</h2><div id="highlights" class="highlights"></div></section></section><section id="search" class="view"><section class="panel"><h2>Buscar</h2><input id="searchInput" class="wide" placeholder="Busca participante, selección o partido..."><div id="searchResults"></div></section></section><section id="compare" class="view"><section class="panel"><h2>Comparador</h2><div class="line"><select id="compareA"></select><select id="compareB"></select></div><div id="compareResults"></div></section></section><section id="tableView" class="view"><section class="panel"><h2>Tabla completa</h2><div class="table-wrap"><table id="desktopTable"></table></div><div id="mobileCards" class="mobile-cards"></div></section></section></main><script type="module" src="./app.js"></script></body></html>
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PORRA MUNDIAL 2026</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="brand-mark">🏆</div>
+    <div>
+      <div class="kicker">Museo privado del Mundial</div>
+      <h1>PORRA MUNDIAL 2026</h1>
+      <p>Estados Unidos · México · Canadá</p>
+    </div>
+  </div>
+  <button id="adminOpen" class="admin-open">Admin</button>
+</header>
+
+<main>
+  <nav class="bottom-nav">
+    <button data-view="home" class="active">Inicio</button>
+    <button data-view="search">Buscar</button>
+    <button data-view="compare">Comparar</button>
+    <button data-view="tableView">Tabla</button>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-copy">
+      <p class="eyebrow">72 partidos · 1 campeón</p>
+      <h2>Que empiece el espectáculo</h2>
+      <p>Una clasificación viva para seguir los pronósticos de todos durante la fase de grupos.</p>
+    </div>
+    <div class="hero-icons">
+      <span>Telstar</span>
+      <span>Azteca</span>
+      <span>Jabulani</span>
+    </div>
+  </section>
+
+  <section id="adminPanel" class="panel admin-panel hidden">
+    <h2>Panel admin</h2>
+    <div id="loginBox" class="line">
+      <input id="adminPassword" type="password" placeholder="Contraseña">
+      <button id="adminLogin">Entrar</button>
+    </div>
+
+    <div id="adminTools" class="hidden">
+      <div class="line">
+        <button id="adminLogout">Salir de admin</button>
+        <button id="seedDatabase">Cargar partidos iniciales</button>
+      </div>
+
+      <h3>Añadir participante</h3>
+      <div class="line">
+        <input id="newParticipantName" placeholder="Nombre del participante">
+        <button id="createParticipant">Crear participante con 72 pronósticos</button>
+      </div>
+
+      <h3>Editar participante existente</h3>
+      <div class="line">
+        <select id="adminParticipantSelect"></select>
+        <button id="loadParticipantPredictions">Cargar pronósticos</button>
+        <button id="deleteParticipant" class="danger">Eliminar participante</button>
+      </div>
+
+      <div id="predictionEditor" class="hidden">
+        <h3 id="predictionEditorTitle"></h3>
+        <div id="predictionList"></div>
+        <button id="savePredictions" class="primary">Guardar pronósticos</button>
+      </div>
+
+      <h3>Renombrar participantes</h3>
+      <div id="participantRenameList"></div>
+
+      <h3>Editar partidos y orden</h3>
+      <p class="small">Edita el nombre del partido o cambia su posición. Si mueves uno a otra posición, los demás se desplazan y no se pierde ningún pronóstico.</p>
+      <div id="matchEditorList"></div>
+    </div>
+  </section>
+
+  <section id="home" class="view active">
+    <section class="grid-main">
+      <article class="panel ranking-panel">
+        <div class="section-head">
+          <h2>Clasificación</h2>
+          <span id="playedCounter" class="chip">0/72</span>
+        </div>
+        <div id="rankingTop"></div>
+        <button class="link-button" data-view="tableView">Ver tabla completa</button>
+      </article>
+
+      <article class="panel">
+        <h2>Últimos 3 resultados</h2>
+        <div id="lastResults"></div>
+      </article>
+
+      <article class="panel">
+        <h2>Próximos 3 partidos</h2>
+        <div id="nextMatches"></div>
+      </article>
+    </section>
+
+    <section class="panel">
+      <h2>Destacados</h2>
+      <div id="highlights" class="highlights"></div>
+    </section>
+  </section>
+
+  <section id="search" class="view">
+    <section class="panel">
+      <h2>Buscar</h2>
+      <input id="searchInput" class="wide" placeholder="Busca participante, selección o partido...">
+      <div id="searchResults"></div>
+    </section>
+  </section>
+
+  <section id="compare" class="view">
+    <section class="panel">
+      <h2>Comparador</h2>
+      <div class="line">
+        <select id="compareA"></select>
+        <select id="compareB"></select>
+      </div>
+      <div id="compareResults"></div>
+    </section>
+  </section>
+
+  <section id="tableView" class="view">
+    <section class="panel">
+      <h2>Tabla completa</h2>
+      <div class="table-wrap">
+        <table id="desktopTable"></table>
+      </div>
+      <div id="mobileCards" class="mobile-cards"></div>
+    </section>
+  </section>
+</main>
+
+<script type="module" src="./app.js"></script>
+</body>
+</html>
